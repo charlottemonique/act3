@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Bahay na Bato, Luna, La Union",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/bahaynabato.jpg",
-    "price": 20.00,
+    "price": 20,
     "priceCurrency": "₱",
     "lat": 16.8308,
     "lng": 120.3551
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Urbiztondo Beach, San Juan, La Union",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/beach.jpg",
-    "price": 00.00,
+    "price": 00,
     "priceCurrency": "₱",
     "lat": 16.6720,
     "lng": 120.3628
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Tangadan Falls, San Gabriel, La Union",
-     "price": 10.00,
+     "price": 10,
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/tangadan.jpg",
     "priceCurrency": "₱",
     "lat": 16.6694,
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Grape Farm, Bauang, La Union",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/grapefarm.jpg",
-    "price": 250.00,
+    "price": 250,
     "priceCurrency": "₱",
     "lat": 16.4664,
     "lng": 120.3335
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Ma-cho Temple",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/macho.jpg",
-    "price": 0.00,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6074,
     "lng": 120.3666
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Pindangan Ruins",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/pindangan.jpg",
-    "price": 0.00,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.1743,
     "lng": 120.4833
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Thunderbird Resort",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/thunderbird.jpg",
-    "price": 150.00,
+    "price": 150,
     "priceCurrency": "₱",
     "lat": 16.6167,
     "lng": 120.2833
@@ -66,7 +66,7 @@
     "id": 215,
     "name": "Baluarte Watch Tower, Luna, La Union",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/tower.jpg",
-    "price": 150.00,
+    "price": 150,
     "priceCurrency": "₱",
     "lat": 16.8308,
     "lng": 120.3551
@@ -75,7 +75,7 @@
     "id": 170,
     "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/agoochurch.jpg",
-    "price": 0.00,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.3247,
     "lng": 120.3551
@@ -84,7 +84,7 @@
     "id": 30,
     "name": "Pugo Adventure",
     "imageUrl": "https://github.com/charlottemonique/act3/blob/master/pugad.jpg",
-    "price": 200.00,
+    "price": 200,
     "priceCurrency": "₱",
     "lat": 16.3213,
     "lng": 120.4761
