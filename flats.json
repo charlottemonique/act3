@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Bahay na Bato, Luna, La Union",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/bahaynabato.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/bahaynabato.jpg",
     "price": 20,
     "priceCurrency": "₱",
     "lat": 16.8308,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Urbiztondo Beach, San Juan, La Union",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/beach.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/beach.jpg",
     "price": 00,
     "priceCurrency": "₱",
     "lat": 16.6720,
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Tangadan Falls, San Gabriel, La Union",
      "price": 10,
-    "imageUrl": "https://github.com/charlottemonique/act3/master/tangadan.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/tangadan.jpg",
     "priceCurrency": "₱",
     "lat": 16.6694,
     "lng": 120.5049
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Grape Farm, Bauang, La Union",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/grapefarm.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/grapefarm.jpg",
     "price": 250,
     "priceCurrency": "₱",
     "lat": 16.4664,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Ma-cho Temple",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/macho.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/macho.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6074,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Pindangan Ruins",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/pindangan.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/pindangan.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.1743,
@@ -56,7 +56,7 @@
   {
     "id": 212,
     "name": "Thunderbird Resort",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/thunderbird.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/thunderbird.jpg",
     "price": 150,
     "priceCurrency": "₱",
     "lat": 16.6167,
@@ -65,7 +65,7 @@
   {
     "id": 215,
     "name": "Baluarte Watch Tower, Luna, La Union",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/tower.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/tower.jpg",
     "price": 150,
     "priceCurrency": "₱",
     "lat": 16.8308,
@@ -74,7 +74,7 @@
   {
     "id": 170,
     "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://github.com/charlottemonique/act3/blob/master/agoochurch.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/agoochurch.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.3247,
@@ -83,7 +83,7 @@
   {
     "id": 30,
     "name": "Pugo Adventure",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/pugad.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/pugad.jpg",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 16.3213,
@@ -92,7 +92,7 @@
   {
     "id": 39,
     "name": "MY HOME ADDRESS",
-    "imageUrl": "https://github.com/charlottemonique/act3/master/sj.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/charlottemonique/act3/master/sj.jpg",
     "lat": 16.6720,
     "lng": 120.3628
   }
